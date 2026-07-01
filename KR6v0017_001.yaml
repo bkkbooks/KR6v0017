@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6v0017/zw/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 録文三前殘辟支作寺主普文殊講法華亦有妻子種種來布施施亦不為無常身誰能讀此金剛神經者一日誦五遍遠行來者誦九遍道路險苦誦三遍除卻千劫已來無量重罪東方寶光明王佛西方其與青色佛北方離覺子度佛上方香積如來下方獅子億象既聞佛說說度脫經者陽銅灌積柱白銀作屋脊琉璃作屋椽日月作僚窗上有一小劫下有一由旬此經雖小大有威神亦勝法華亦勝涅槃亦如大海亦如大山入海採寶隨其多少皆得重來入山斫木隨其長短誰能把此經手中羅文成誰能看此經眼中重光生誰能讀此經六國好音聲大罪得滅小罪得除若入刀山刀山摧折若入劍樹劍樹崩缺若入濩湯濩湯自煞若入爐炭爐炭自滅若入地獄地獄枯竭青青靈靈手把金經聲響楞楞直入講堂前備玉几後金牀憶佛如憶食念佛如念命身直一千五百萬即得佛道成東門無量壽北門七寶堂西門藥師琉璃光上有八菩薩下有四天王月光童子初出時除罪滅禍殃録文完
+  hash: sha256:f7a12367fa8444d9d01398ce63dc2b58c5adc7c515a4c7dcf08484ef07b751e5
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: '', id: KR6v0017_ZW_001-juan-start, juan_n: '001'}
+  - {type: 其他, offset: 0, content: 錄文三, id: KR6v0017_ZW_001-mulu-1, level: '1'}
+metadata:
+  title: 天公經
+  edition:
+    short: zw
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0014c.xml
+    old_id: ZW01n0014c
+hash: sha256:9025dab02b04f7ca226568f1500e4ad75c53849871d269394113fa2eb733e36e
